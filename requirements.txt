@@ -1,0 +1,4 @@
+autopep8
+click
+python-dotenv
+requests
