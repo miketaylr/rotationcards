@@ -1,3 +1,7 @@
+### Usage
+
+`python rotate.py --firstdate=YYYY-MM-DD`
+
 ### Dependencies
 `pip install -r requirements.txt`
 
